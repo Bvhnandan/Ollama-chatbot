@@ -56,7 +56,7 @@ Setup Instructions
    - Pull desired local models:
      ollama pull mistral
      ollama pull gemma3
-     # Add other models as needed
+     Add other models as needed
    - Start Ollama daemon if not already running (you might not need this on Windows as Ollama auto-runs):
      ollama serve
 
